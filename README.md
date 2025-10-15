@@ -71,9 +71,4 @@ Contributions are welcome! Here’s how you can help:
 - Tutorials and online courses for DSA in C  
 - Coding challenge platforms like **HackerRank** and **LeetCode** to test your skills  
 
----
-
-## 📜 License
-
-Include a license if you want others to reuse or modify freely (e.g. MIT License).  
 
