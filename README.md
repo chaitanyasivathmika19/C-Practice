@@ -10,10 +10,6 @@ This repo is designed for practicing core programming logic, strengthening your 
 
 ---
 
-### 📁 Programs Included
-
-
-
 ## 🧩 Programs & Key Concepts
 
 | File | Description | Key Concepts |
@@ -24,14 +20,6 @@ This repo is designed for practicing core programming logic, strengthening your 
 | `sta.cpp` | C++ version / variant of stack example | C++ conventions, perhaps STL or custom stack usage |
 
 You can extend this table if you add more programs.
-
-
-
-| File Name | Description | Key Concepts |
-| :--- | :--- | :--- |
-| reverseString.c | Reverses the characters of a user-input string. | Array traversal, string handling (`strlen`), basic loops. |
-| stack.c | Implements basic Stack operations like Push and Pop using an array. | Array-based implementation, LIFO (Last-In, First-Out) principle, Stack Overflow/Underflow checks. |
-| countEvenOdd.c | Reads an array of integers and counts the total number of even and odd elements. | Array input, modulo operator (`%`), conditional logic (`if/else`). |
 
 ---
 
@@ -50,6 +38,42 @@ These programs can be compiled using a standard C compiler like GCC (GNU Compile
 
 ---
 
-### 🌟 Contribution
+## ✅ Contribution Guidelines
 
-Feel free to fork this repository, suggest improvements, or add new fundamental DSA exercises in C!
+Contributions are welcome! Here’s how you can help:
+
+1. **Fork** this repository.  
+2. **Create** a new branch (e.g. `feature/new-program`).  
+3. **Add** your C (or C++) program(s) with descriptive names and comments.  
+4. **Update** this README’s “Programs & Key Concepts” table with your addition.  
+5. **Submit** a pull request — describe your changes clearly.  
+
+**Tips:**
+
+- Ensure code is well-commented and readable.  
+- Follow consistent naming and style (indentation, braces, etc.).  
+- Avoid committing compiled binaries or OS-specific artifacts.  
+- Add error and edge case handling wherever possible.  
+
+---
+
+## 🎯 Why This Repo?
+
+- Great for **beginners** to practice basic DSA logic in C.  
+- Builds confidence before tackling advanced data structures (linked lists, trees, graphs, etc.).  
+- Can be used as a base to add sorting, searching, recursion, or dynamic memory programs.  
+
+---
+
+## 📚 Resources & References
+
+- [C Programming Language (Kernighan & Ritchie)](https://en.wikipedia.org/wiki/The_C_Programming_Language)  
+- Tutorials and online courses for DSA in C  
+- Coding challenge platforms like **HackerRank** and **LeetCode** to test your skills  
+
+---
+
+## 📜 License
+
+Include a license if you want others to reuse or modify freely (e.g. MIT License).  
+
