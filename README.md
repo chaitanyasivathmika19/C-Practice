@@ -12,6 +12,21 @@ This repo is designed for practicing core programming logic, strengthening your 
 
 ### 📁 Programs Included
 
+
+
+## 🧩 Programs & Key Concepts
+
+| File | Description | Key Concepts |
+|------|-------------|--------------|
+| `stack.c` | Implements push & pop on a stack using an array | Stack LIFO, overflow/underflow, array usage |
+| `reversestring.c` | Reverses user-input string | String handling, `strlen`, indexing, loops |
+| `evenoroddsum.c` | Reads an integer array and counts even & odd elements | Arrays, modulo operator `%`, conditionals |
+| `sta.cpp` | C++ version / variant of stack example | C++ conventions, perhaps STL or custom stack usage |
+
+You can extend this table if you add more programs.
+
+
+
 | File Name | Description | Key Concepts |
 | :--- | :--- | :--- |
 | reverseString.c | Reverses the characters of a user-input string. | Array traversal, string handling (`strlen`), basic loops. |
