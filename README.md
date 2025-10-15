@@ -1,6 +1,12 @@
 # 🚀 C-DSA-Practice
 
-This repository serves as a collection of fundamental Data Structures and Algorithms (DSA) concepts implemented in the C programming language. It is designed for practicing core programming logic and mastering the basics of DSA.
+
+A collection of fundamental **Data Structures & Algorithms** implemented in **C**.
+This repo is designed for practicing core programming logic, strengthening your understanding of DSA basics, and preparing for coding interviews.
+
+---
+
+> **Note**: Remove or ignore `.exe` files (or Windows build artifacts) from version control (you may add them to `.gitignore`).
 
 ---
 
