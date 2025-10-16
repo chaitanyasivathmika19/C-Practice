@@ -1,6 +1,4 @@
 # 🚀 C-DSA-Practice
-
-
 A collection of fundamental **Data Structures & Algorithms** implemented in **C**.
 This repo is designed for practicing core programming logic, strengthening your understanding of DSA basics, and preparing for coding interviews.
 
@@ -70,5 +68,3 @@ Contributions are welcome! Here’s how you can help:
 - [C Programming Language (Kernighan & Ritchie)](https://en.wikipedia.org/wiki/The_C_Programming_Language)  
 - Tutorials and online courses for DSA in C  
 - Coding challenge platforms like **HackerRank** and **LeetCode** to test your skills  
-
-
