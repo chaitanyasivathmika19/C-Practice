@@ -1,4 +1,5 @@
-# 🚀 C-DSA-Practice
+# 🚀 [C-DSA-Practice](https://github.com/chaitanyasivathmika19/C-Practice)
+
 
 ![C](https://img.shields.io/badge/Language-C-blue?logo=c)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
