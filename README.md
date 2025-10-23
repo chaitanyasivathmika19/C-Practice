@@ -24,7 +24,6 @@ This repository is designed for **hands-on coding practice**, to strengthen your
 | `evenoroddsum.c` | Counts even and odd numbers in an array | Arrays, modulo `%`, conditionals |
 | `sta.cpp` | C++ version of the stack example | C++ syntax, stack logic using STL/custom class |
 
-📝 *You can extend this table as you add more programs.*
 
 ---
 
@@ -60,7 +59,7 @@ These programs can be compiled using the **GCC compiler** or any standard C/C++ 
        ./outputname
    *Example: `./stack_app`*
 
-
+---
 
 
 ## ✅ Contribution Guidelines
