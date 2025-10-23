@@ -53,10 +53,12 @@ These programs can be compiled using the **GCC compiler** or any standard C/C++ 
    ```bash
    gcc filename.c -o outputname
 *Example: `gcc stack.c -o stack_app`*
-4.  Run: Execute the compiled program:
 
+
+4.  Run: Execute the compiled program:
+    ```
        ./outputname
-        *Example: `./stack_app`*
+   *Example: `./stack_app`*
 
 
 
