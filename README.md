@@ -1,40 +1,65 @@
 # 🚀 C-DSA-Practice
-A collection of fundamental **Data Structures & Algorithms** implemented in **C**.
-This repo is designed for practicing core programming logic, strengthening your understanding of DSA basics, and preparing for coding interviews.
+
+![C](https://img.shields.io/badge/Language-C-blue?logo=c)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
+
+A collection of fundamental **Data Structures & Algorithms** implemented in **C**.  
+This repository is designed for **hands-on coding practice**, to strengthen your understanding of DSA basics and prepare for **coding interviews**.
 
 ---
 
-> **Note**: Remove or ignore `.exe` files (or Windows build artifacts) from version control (you may add them to `.gitignore`).
+> 💡 **Note:**  
+> Remove or ignore `.exe` files (or Windows build artifacts) from version control.  
+> Add them to `.gitignore` for a cleaner repository.
 
 ---
 
 ## 🧩 Programs & Key Concepts
 
-| File | Description | Key Concepts |
-|------|-------------|--------------|
-| `stack.c` | Implements push & pop on a stack using an array | Stack LIFO, overflow/underflow, array usage |
-| `reversestring.c` | Reverses user-input string | String handling, `strlen`, indexing, loops |
-| `evenoroddsum.c` | Reads an integer array and counts even & odd elements | Arrays, modulo operator `%`, conditionals |
-| `sta.cpp` | C++ version / variant of stack example | C++ conventions, perhaps STL or custom stack usage |
+| File Name | Description | Key Concepts Covered |
+|------------|-------------|----------------------|
+| `stack.c` | Implements push & pop operations using arrays | Stack LIFO, overflow/underflow handling |
+| `reversestring.c` | Reverses a user-input string | String handling, loops, indexing |
+| `evenoroddsum.c` | Counts even and odd numbers in an array | Arrays, modulo `%`, conditionals |
+| `sta.cpp` | C++ version of the stack example | C++ syntax, stack logic using STL/custom class |
 
-You can extend this table if you add more programs.
+📝 *You can extend this table as you add more programs.*
 
 ---
 
-### 💻 How to Compile and Run
+## ⚙️ Folder Structure
 
-These programs can be compiled using a standard C compiler like GCC (GNU Compiler Collection).
+/ (root)  
+│── stack.c               # 📦 Implements stack operations using array  
+│── reversestring.c       # 🔁 Reverses user-input string  
+│── evenoroddsum.c        # 🔢 Counts even and odd numbers in array  
+│── sta.cpp               # 💻 C++ stack version (example variant)  
+│── README.md             # 📘 Project documentation  
 
-1.  Save the Code: Save the code (e.g., `stack.c`) in a file on your system.
-2.  Open Terminal: Navigate to the directory where you saved the file.
-3.  Compile: Use the GCC compiler to create an executable:
-       gcc filename.c -o outputname
-        *Example: `gcc stack.c -o stack_app`*
+---
+
+## 💻 How to Compile and Run
+
+These programs can be compiled using the **GCC compiler** or any standard C/C++ compiler.
+
+1. **Save the Code:**  
+   Example — `stack.c`
+
+2. **Open Terminal / CMD:**  
+   Navigate to the directory where the file is saved.
+
+3. **Compile the Program:**
+   ```bash
+   gcc filename.c -o outputname
+*Example: `gcc stack.c -o stack_app`*
 4.  Run: Execute the compiled program:
+
        ./outputname
         *Example: `./stack_app`*
 
----
+
+
 
 ## ✅ Contribution Guidelines
 
