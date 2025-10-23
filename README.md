@@ -82,16 +82,33 @@ Contributions are welcome! Here’s how you can help:
 
 ---
 
+
 ## 🎯 Why This Repo?
 
-- Great for **beginners** to practice basic DSA logic in C.  
-- Builds confidence before tackling advanced data structures (linked lists, trees, graphs, etc.).  
-- Can be used as a base to add sorting, searching, recursion, or dynamic memory programs.  
+- Ideal for **beginners** learning Data Structures and Algorithms in C.  
+- Strengthens **core problem-solving** and logical thinking.  
+- Can be extended with **sorting, searching, recursion, and dynamic memory** programs.  
+- A solid foundation before learning advanced DSA topics (Linked Lists, Trees, Graphs).  
 
 ---
 
-## 📚 Resources & References
+## 📚 Recommended Resources
 
-- [C Programming Language (Kernighan & Ritchie)](https://en.wikipedia.org/wiki/The_C_Programming_Language)  
-- Tutorials and online courses for DSA in C  
-- Coding challenge platforms like **HackerRank** and **LeetCode** to test your skills  
+- [📖 *The C Programming Language* – Kernighan & Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)  
+- [GeeksforGeeks – C Data Structures Tutorials](https://www.geeksforgeeks.org/data-structures/)  
+- [HackerRank C Practice](https://www.hackerrank.com/domains/c)  
+- [LeetCode DSA Problems](https://leetcode.com/problemset/all/)  
+
+---
+
+## ✨ Author
+
+**👩‍💻 [chaitanyasivathmika19](https://github.com/chaitanyasivathmika19)**  
+Final-year B.Tech student passionate about **C Programming, DSA, Cloud Computing, and Front-end Development** ☁️💻  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — you’re free to use, modify, and share it.
+
